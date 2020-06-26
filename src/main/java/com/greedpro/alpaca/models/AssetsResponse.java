@@ -10,19 +10,19 @@ import java.util.ArrayList;
  *
  */
 public class AssetsResponse {
-	
-	ArrayList < AssetResponse > assets = new ArrayList < AssetResponse > ();
-	
-	// Getter Methods 
-	
-	public ArrayList<AssetResponse> getAssets(){
+
+	ArrayList<AssetResponse> assets = new ArrayList<AssetResponse>();
+
+	// Getter Methods
+
+	public ArrayList<AssetResponse> getAssets() {
 		return assets;
 	}
-	
-	// Setter Methods 
-	
+
+	// Setter Methods
+
 	public void setAssets(ArrayList<AssetResponse> assets) {
 		this.assets = assets;
 	}
-	
+
 }

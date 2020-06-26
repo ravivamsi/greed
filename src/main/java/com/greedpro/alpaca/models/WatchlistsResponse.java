@@ -10,19 +10,19 @@ import java.util.ArrayList;
  *
  */
 public class WatchlistsResponse {
-	
-	ArrayList < WatchlistResponse > watchlists = new ArrayList < WatchlistResponse > ();
-	
-	// Getter Methods 
-	
-	public ArrayList<WatchlistResponse> getWatchlists(){
+
+	ArrayList<WatchlistResponse> watchlists = new ArrayList<WatchlistResponse>();
+
+	// Getter Methods
+
+	public ArrayList<WatchlistResponse> getWatchlists() {
 		return watchlists;
 	}
-	
-	// Setter Methods 
-	
+
+	// Setter Methods
+
 	public void setWatchlists(ArrayList<WatchlistResponse> watchlists) {
 		this.watchlists = watchlists;
 	}
-	
+
 }

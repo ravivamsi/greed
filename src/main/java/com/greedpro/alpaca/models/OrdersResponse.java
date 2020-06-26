@@ -10,19 +10,19 @@ import java.util.ArrayList;
  *
  */
 public class OrdersResponse {
-	
-	ArrayList < OrderResponse > orders = new ArrayList < OrderResponse > ();
-	
-	// Getter Methods 
-	
-	public ArrayList<OrderResponse> getOrders(){
+
+	ArrayList<OrderResponse> orders = new ArrayList<OrderResponse>();
+
+	// Getter Methods
+
+	public ArrayList<OrderResponse> getOrders() {
 		return orders;
 	}
-	
-	// Setter Methods 
-	
+
+	// Setter Methods
+
 	public void setOrders(ArrayList<OrderResponse> orders) {
 		this.orders = orders;
 	}
-	
+
 }

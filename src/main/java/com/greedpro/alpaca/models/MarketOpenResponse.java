@@ -10,19 +10,19 @@ import java.util.ArrayList;
  *
  */
 public class MarketOpenResponse {
-	
-	ArrayList < MarketOpen > marketopendetails = new ArrayList < MarketOpen > ();
-	
-	// Getter Methods 
-	
-	public ArrayList<MarketOpen> getMarketOpenDetails(){
+
+	ArrayList<MarketOpen> marketopendetails = new ArrayList<MarketOpen>();
+
+	// Getter Methods
+
+	public ArrayList<MarketOpen> getMarketOpenDetails() {
 		return marketopendetails;
 	}
-	
-	// Setter Methods 
-	
+
+	// Setter Methods
+
 	public void setMarketOpenDetails(ArrayList<MarketOpen> marketopendetails) {
 		this.marketopendetails = marketopendetails;
 	}
-	
+
 }

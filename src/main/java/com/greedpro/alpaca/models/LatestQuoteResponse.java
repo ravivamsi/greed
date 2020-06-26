@@ -8,36 +8,35 @@ package com.greedpro.alpaca.models;
  *
  */
 public class LatestQuoteResponse {
-	 private String status;
-	 private String symbol;
-	 Latest latest;
+	private String status;
+	private String symbol;
+	Latest latest;
 
+	// Getter Methods
 
-	 // Getter Methods 
+	public String getStatus() {
+		return status;
+	}
 
-	 public String getStatus() {
-	  return status;
-	 }
+	public String getSymbol() {
+		return symbol;
+	}
 
-	 public String getSymbol() {
-	  return symbol;
-	 }
+	public Latest getLatest() {
+		return latest;
+	}
 
-	 public Latest getLatest() {
-	  return latest;
-	 }
+	// Setter Methods
 
-	 // Setter Methods 
+	public void setStatus(String status) {
+		this.status = status;
+	}
 
-	 public void setStatus(String status) {
-	  this.status = status;
-	 }
+	public void setSymbol(String symbol) {
+		this.symbol = symbol;
+	}
 
-	 public void setSymbol(String symbol) {
-	  this.symbol = symbol;
-	 }
-
-	 public void setLatest(Latest latest) {
-	  this.latest = latest;
-	 }
+	public void setLatest(Latest latest) {
+		this.latest = latest;
+	}
 }
