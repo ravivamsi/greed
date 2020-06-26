@@ -10,6 +10,8 @@ Greedy Algorithm powered by Alpaca API
 
 ## TODO
 
+
+- Dockerfile
 - Models 	- com.greedpro.alpaca.models
 - Services 	- com.greedpro.alpaca.services
 - Scalp		- com.greedpro.alpaca.scalp
