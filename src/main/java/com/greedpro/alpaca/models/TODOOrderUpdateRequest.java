@@ -7,6 +7,6 @@ package com.greedpro.alpaca.models;
  * @author vamsiravi
  *
  */
-public class LastTradeResponse {
+public class TODOOrderUpdateRequest {
 
 }
