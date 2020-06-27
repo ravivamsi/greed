@@ -4,6 +4,13 @@ Greedy Algorithm powered by Alpaca API
 
 ![Docker Image CI](https://github.com/ravivamsi/greed/workflows/Docker%20Image%20CI/badge.svg?branch=master)
 
+
+## Alpaca API 
+
+Live API Domain - api.alpaca.markets
+Paper API Domain - paper-api.alpaca.markets
+Data API Domain - data.alpaca.markets
+
 ## Technical Specifications
 
 - Maven 

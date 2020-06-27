@@ -1,4 +1,12 @@
 ##########################
+# Environment Variables
+##########################
+ENV APCA-TRADINGBASEURL https://paper-api.alpaca.markets
+ENV APCA-DATABASEURL https://data.alpaca.markets
+ENV APCA-API-KEY-ID
+ENV APCA-API-SECRET-KEY
+
+##########################
 # Build stage
 ##########################
 FROM maven:3.6.0-jdk-11-slim AS build
