@@ -2,6 +2,8 @@
 
 Greedy Algorithm powered by Alpaca API 
 
+![Docker Image CI](https://github.com/ravivamsi/greed/workflows/Docker%20Image%20CI/badge.svg?branch=master)
+
 ## Technical Specifications
 
 - Maven 
