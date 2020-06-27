@@ -3,8 +3,8 @@
 ##########################
 ENV APCA-TRADINGBASEURL https://paper-api.alpaca.markets
 ENV APCA-DATABASEURL https://data.alpaca.markets
-ENV APCA-API-KEY-ID
-ENV APCA-API-SECRET-KEY
+ENV APCA-API-KEY-ID NTRNM5QDOF0BXKRYIRKV
+ENV APCA-API-SECRET-KEY NTRNM5QDOF0BXKRYIRKV
 
 ##########################
 # Build stage
