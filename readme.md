@@ -7,9 +7,9 @@ Greedy Algorithm powered by Alpaca API
 
 ## Alpaca API 
 
-Live API Domain - api.alpaca.markets
-Paper API Domain - paper-api.alpaca.markets
-Data API Domain - data.alpaca.markets
+- Live API Domain - api.alpaca.markets
+- Paper API Domain - paper-api.alpaca.markets
+- Data API Domain - data.alpaca.markets
 
 ## Technical Specifications
 
