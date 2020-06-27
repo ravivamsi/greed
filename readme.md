@@ -2,6 +2,13 @@
 
 Greedy Algorithm powered by Alpaca API 
 
+## Build Status
+
+### Maven Build Status
+
+![Java CI with Maven](https://github.com/ravivamsi/greed/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)
+
+### Docker Build Status
 ![Docker Image CI](https://github.com/ravivamsi/greed/workflows/Docker%20Image%20CI/badge.svg?branch=master)
 
 
